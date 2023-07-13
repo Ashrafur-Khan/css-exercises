@@ -1,0 +1,22 @@
+.reg_class {
+    background-color: salmon;
+    color: black; 
+    font-size: 16px;
+    font-family: Verdana, Dejavu Sans, sans-serif;
+}
+
+#reg_id {
+    color: blue;
+    font-size: 36px;
+}
+
+#third {
+    font-size: 24px;
+}
+
+#unq {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 800;
+}
+
